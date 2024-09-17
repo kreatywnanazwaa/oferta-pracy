@@ -1,0 +1,117 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Roboto, arial;
+	box-sizing: border-box;
+}
+
+	body {
+		background-color: #752d45;
+	}
+
+#container
+	
+		
+		
+		
+		{
+			max-width:1000px;
+			margin: 0 auto;
+			align: center;
+		}
+		
+		#wrapper {
+			background-color: white;
+			align: center;
+		}
+		
+		#logo
+		{
+			align: center;
+			width:1000px;
+			color: black;
+			background-color: #262835;
+		
+		}
+		
+		#wstęp
+		{
+			float: left;
+			width:950px;
+			padding: 25px 25px;
+			align: center;
+		}
+		
+		#opis
+		{
+			float: left;
+			width:950px;
+			padding: 25px 25px;
+			align: center;
+		}
+		
+		#stanowisko
+		{
+			float: left;
+			width:950px;
+			padding: 25px 25px;
+			align: center;
+		}
+		
+		#wymagania
+		{
+			float: left;
+			width:950px;
+			padding: 25px 25px;
+			align: center;
+		}
+		
+		#obowiązki
+		{
+			float: left;
+			width:950px;
+			padding: 25px 25px;
+			align: center;
+		}
+		
+		#oferta
+		{
+			float: left;
+			width:950px;
+			padding: 25px 25px;
+			align: center;
+		}
+		
+		#aplikacja
+		{
+			float: left;
+			width:950px;
+			padding: 25px 25px;
+			align: center;
+		}
+		
+		#bottom
+		{
+			clear: both;
+			background-color:#262835;
+		}
+		
+		
+	a.menu {
+		display: inline-block;
+		width:1000px;
+		padding:  25px;
+		color: black;
+		text-decoration: none;
+		text-align: center;
+		background-color: #262835;
+	}
+	a.menu:hover {
+		background-color: #415e86;
+		color: white;
+		padding:  25px, 25px;
+	}
+	
+	
+		
+		
